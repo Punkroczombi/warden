@@ -7,6 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="lib" path="D:/Tools/Eclipse/Libraries/spigot-1.15.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="D:/Tools/Eclipse/Workspace/essentials/target/mythicalEssentials.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Tools/Eclipse/Workspace/essentials/target/essentials.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
