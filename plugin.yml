@@ -1,0 +1,14 @@
+name: warden
+main: tk.mythicaldimensions.warden.WardenPlugin
+version: 0.0.0.0
+api-version: 1.15
+author: [Empty]
+description: a server management plugin
+depend: [mythicalEssentials]
+loadbefore: [scpsl]
+load: STARTUP
+commands:
+   warden:
+      description: Base warden command
+   staff:
+      description: Staff Command
