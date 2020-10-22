@@ -33,7 +33,7 @@ public final class WardenConfig {
 	// We are going to use these to store the messages from the FileConfiguration
 	private String noPermMessage, invalidPlayerMessage, onlyPlayersMessage, configReloadedMessage,
 			invalidCommandMessage;
-	
+	// Test
 	// Booleans
 	private boolean allowRcon;
 	
